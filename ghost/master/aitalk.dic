@@ -97,6 +97,8 @@ RandomTalk : nonoverlap_pool
 		"\0\s[9]¿Sabes? La hermana mayor de Tsukimoto Sanae se va a casar con Tanabe Sensei... \s[5]interesante pareja jeje\e"
 		"\0\s[9]La comida menos preferida de Nishikata son los pimientos verdes jeje\n\s[0]Come como un niño pequeño.\i[5]\e"
 
+		"\0\s[0]Esta es la prueba de que la actualización fue un exito."
+
 		//------------------------------------------------------------------------------------------
 		if ASEARCH(0,toDoArrayDone) != -1{
 			OnReminder
