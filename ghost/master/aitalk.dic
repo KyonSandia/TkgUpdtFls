@@ -95,7 +95,7 @@ RandomTalk : nonoverlap_pool
 		"\0\s[0]No me gusta mucho el sabor de las bebidas energéticas. ¿Sabes? ¿Hay algo de lo que te disguste su sabor?\e"
 		"\0\s[9]Dicen que la primera persona a la que le das las buenas noticias es la persona que te gusta...\w8\w8\w4\n\s[15]¿Pensaste en alguien?\e"
 		"\0\s[9]¿Sabes? La hermana mayor de Tsukimoto Sanae se va a casar con Tanabe Sensei... \s[5]interesante pareja jeje\e"
-		"\0\s[9]La comida menos preferida de Nishikata son los pimientos verdes jeje\n\s[0]Come como un niño pequeño.\i[5]\e"
+		"\0\s[9]La comida menos preferida de Nishikata son los pimientos verdes jeje\n\s[0]Come como un niño pequeño.\e"
 
 		//------------------------------------------------------------------------------------------
 		if ASEARCH(0,toDoArrayDone) != -1{
