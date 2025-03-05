@@ -47,17 +47,17 @@ animation4.pattern0,overlay,1102,140,0,0
 animation4.pattern1,overlay,-1,100,0,0
 
 animation5.interval,never
-animation5.pattern1,overlay,1107,150,0,0
-animation5.pattern2,overlay,1108,150,0,0
-animation5.pattern3,overlay,1107,150,0,0
-animation5.pattern4,overlay,1108,150,0,0
-animation5.pattern5,overlay,1107,150,0,0
-animation5.pattern6,overlay,1108,150,0,0
-animation5.pattern7,overlay,1107,150,0,0
-animation5.pattern8,overlay,1108,150,0,0
-animation5.pattern9,overlay,1107,150,0,0
-animation5.pattern10,overlay,1108,150,0,0
-animation5.pattern11,overlay,1107,150,0,0
+animation5.pattern1,overlay,1115,150,0,0
+animation5.pattern2,overlay,1116,150,0,0
+animation5.pattern3,overlay,1115,150,0,0
+animation5.pattern4,overlay,1116,150,0,0
+animation5.pattern5,overlay,1115,150,0,0
+animation5.pattern6,overlay,1116,150,0,0
+animation5.pattern7,overlay,1115,150,0,0
+animation5.pattern8,overlay,1116,150,0,0
+animation5.pattern9,overlay,1115,150,0,0
+animation5.pattern10,overlay,1116,150,0,0
+animation5.pattern11,overlay,1115,150,0,0
 animation5.pattern12,overlay,-1,500,0,0
 }
 

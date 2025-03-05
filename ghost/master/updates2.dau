@@ -1,6 +1,6 @@
 .gitignore3b5e96f25927866b6a4a22330d7a786bsize=55date=2025-03-03T13:46:09charset=OSNative
 Template Readme - READ ME FIRST!.txte59f79f4a0883173bbf5c2ed8232fafdsize=6608date=2023-09-28T20:05:23
-ghost/master/aitalk.dic08b2e106dbf6736abbcf10b69769f697size=10855date=2025-03-04T18:49:59
+ghost/master/aitalk.dic07058364104f2dcac6a2ba3f550ac471size=10865date=2025-03-04T22:42:56
 ghost/master/anchor.dic9495ca3bc29065ed2d8e412838c650efsize=2237date=2023-09-28T20:23:43
 ghost/master/bootend.dica867a22dece12f2a8436289f3728ad04size=13217date=2025-01-09T11:54:41
 ghost/master/commu.dic25d50da676e84ffbdc92fbc31bb6ee51size=3816date=2023-09-28T20:38:11
@@ -13,7 +13,7 @@ ghost/master/menu.dic786e74aff121ae9f6396236604f70c25size=29534date=2025-03-0
 ghost/master/mouse.dica2b2bf3e48137d5ab5d94d5576b7092fsize=1821date=2024-10-28T15:50:52
 ghost/master/nameteach.dic023e84605b3d182831c829669d1f19cdsize=1092date=2025-01-07T23:12:00
 ghost/master/saori_cpuid.dlld13370aee8e579fe2517d789dba7c45esize=225280date=2004-04-17T18:47:18
-ghost/master/string.dic38c173d423fd2f3bf5e3d5b9fd4ca3b3size=9677date=2025-03-04T18:42:21
+ghost/master/string.dic2a45d5ae68dc0b7950817562cc0b181asize=8513date=2025-03-04T22:28:55
 ghost/master/tkg.ico97d6c9eaa622003f020360214387fd88size=67646date=2024-10-05T21:45:03
 ghost/master/word.dic625062b272dffb65efef1a3b3bdd9571size=3066date=2023-09-28T21:13:03
 ghost/master/yaya.dll56e3af56c88e696cea1f39d53b239cefsize=880640date=2022-09-10T17:18:59
@@ -27,9 +27,9 @@ install.txt3df271f27a2191a3c5bff32ed3e5cf92size=922date=2024-08-18T19:07:21
 readme.txt47df99cf7357ac0e38df47c528d7ecb8size=296date=2025-03-02T19:06:31
 shell/master/codigodepruebatemp.txt467a955a09e6e03083cdb2f7c31394fasize=1210date=2025-03-03T16:39:11
 shell/master/descript.txt4264d4d36535607018a77987d2b8329esize=5484date=2024-08-18T19:20:57
-shell/master/menu_background.pngee82ad72761d4837c3334f61ade1fbc5size=2775date=2014-11-03T08:22:30
-shell/master/menu_foreground.pnge0d10ee3534c5391c8e97a0897dc77a9size=2775date=2014-11-03T08:12:44
-shell/master/menu_sidebar.png7c405dcca0c16de439fcf21b4efecbb7size=7225date=2014-11-03T08:25:46
+shell/master/menu_background.pngd69b1632d9c713d73af0974dde0b5475size=2463date=2025-03-05T17:07:19
+shell/master/menu_foreground.png38407f120a396940a7718a152350e2casize=152date=2025-03-05T17:09:37
+shell/master/menu_sidebar.png2dfc6a08df6e8e0c574fa8f7f562b5ffsize=153date=2025-03-05T17:13:36
 shell/master/read me.txt6856fd1ab7cfd307653af0e350898708size=2064date=2020-11-07T02:22:18
 shell/master/surface0.png7b28fdd5808b5b5b5bccaf54e2d6d35esize=33562date=2024-08-18T16:23:03
 shell/master/surface1001.png7f5756b7d886d1dac41a24ed3741bd2csize=3261date=2024-08-18T16:24:04
@@ -53,6 +53,8 @@ shell/master/surface1111.pngb31ecdd90d3f75277c669076adee1329size=811date=2025
 shell/master/surface1112.pnge294966e8d79d3e53bc330dfa6973574size=820date=2025-01-05T22:46:27
 shell/master/surface1113.pngc49e0285b86a0578aa4fad26fcd5f4f3size=1473date=2025-01-08T14:24:20
 shell/master/surface1114.pngb49e33e6f5ce65f42ee29a0d3abf93cesize=1521date=2025-01-08T14:24:27
+shell/master/surface1115.png85319d6641797e28bb854e2bddfde1d7size=2464date=2025-03-05T17:25:10
+shell/master/surface1116.png28e68a3abe26ba3efbf76713c9d994b2size=2566date=2025-03-05T17:25:35
 shell/master/surface1200.png876dd26ad057f5e84f5fd2dcca317c24size=1676date=2024-10-20T22:53:27
 shell/master/surface1201.pngcae681d298103f2860ee07822815f61dsize=2125date=2024-10-20T22:53:53
 shell/master/surface1202.png03f7be92f4f0c0d3e6762cd2d03b2c2csize=2795date=2024-10-20T22:54:13
@@ -87,8 +89,8 @@ shell/master/surface1527.png8891dcff3b3ed9b7fe4363201ead2c29size=35854date=20
 shell/master/surface1528.png4f07fc93f3626c0c67ac7c075ee8741csize=56298date=2025-01-08T17:29:16
 shell/master/surface1529.pngb22d52a49ec49071dd1b582ac404b2acsize=54482date=2025-01-08T14:17:52
 shell/master/surface2000.png9a2c3b760dae7610b814846180f8ec69size=977date=2024-08-18T19:47:00
-shell/master/surfaces.txt38042398474339f8b868ab10b516ba8bsize=9203date=2025-03-01T14:51:10
+shell/master/surfaces.txt23fe6aee481158f14782000849ce943esize=9203date=2025-03-05T17:28:31
 shell/master/surfacetable.txte1c67c4ab420659ce462979aac11212csize=391date=2024-10-25T17:07:18
-shell/master/thumbnail.png9993d1bdfb6f26b9886d13f69d0a22b8size=24167date=2014-11-09T16:40:36
+shell/master/thumbnail.png2582cdc0d449ff6e7d13c64b72783cc0size=161378date=2025-03-05T17:02:08
 shell/mynewsurfaces.txt1766fa01d5890047bcfd30edf16436f9size=9050date=2024-10-11T10:57:46
-thumbnail.pngaaac9f3a86600c8e3f01dfb3e3986aa2size=24459date=2014-11-09T16:47:40
+thumbnail.png2582cdc0d449ff6e7d13c64b72783cc0size=161378date=2025-03-05T17:02:08

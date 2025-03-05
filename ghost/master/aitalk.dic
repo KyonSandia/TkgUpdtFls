@@ -89,13 +89,13 @@ RandomTalk : nonoverlap_pool
 		"\0\s[15]Te estás poniendo roj%(espLetra) otra vez... ¿Estás nervios%(espLetra)?.\w8\e"
 		"\0\s[23]\w8\w8\8\w8\w8\w8\8\w8\w8\w8\w6\i[1]\w8\w8\i[1]\e"
 		"\0\s[9]¿Sabes?\w8\w4 Takagi es solo mi apellido,\w8 mi nombre completo es...\w8\w8\s[21]\w8\w8\w8\n¡Oh! Espera...\w8\w8\w8\w8\w8\w8\w8\w8\w8\w8 \n\n\s[0]Listo, perdón ¿Qué te estaba diciendo? ¡Oh! lo olvide.\w8\s[15]\e"
-		"\0\s[0]¿Conoces el videojuego Apple Picker? Recuerdo jugarlo de pequeña. Era muy buena jeje.\e"
+		"\0\s[0]¿Conoces el videojuego Apple Picker? Recuerdo jugarlo de pequeña. \s[9]Era muy buena jeje.\e"
 		
 		"\0\s[9]¿Has escuchado ese rumor?\n\nDicen que si escribes el nombre de la persona que te gusta  en un borrador y lo usas hasta terminarlo, tus sentimientos serán correspondidos.\e"
 		"\0\s[0]No me gusta mucho el sabor de las bebidas energéticas. ¿Sabes? ¿Hay algo de lo que te disguste su sabor?\e"
 		"\0\s[9]Dicen que la primera persona a la que le das las buenas noticias es la persona que te gusta...\w8\w8\w4\n\s[15]¿Pensaste en alguien?\e"
 		"\0\s[9]¿Sabes? La hermana mayor de Tsukimoto Sanae se va a casar con Tanabe Sensei... \s[5]interesante pareja jeje\e"
-		"\0\s[9]La comida menos preferida de Nishikata son los pimientos verdes jeje\n\s[0]Come como un niño pequeño.\e"
+		"\0\s[9]La comida menos preferida de Nishikata son los pimientos verdes jeje\n\s[0]Come como un niño pequeño.\i[5]\e"
 
 		//------------------------------------------------------------------------------------------
 		if ASEARCH(0,toDoArrayDone) != -1{
