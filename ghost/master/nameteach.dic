@@ -1,0 +1,60 @@
+﻿//---------------------------The User's Name--------------------------
+//--OnTeachName
+OnTeachName	
+{
+	if reference0 == "TEACHNAME"
+		{
+		"\0\s[0]¿Cómo debería llamarte?\![open,inputbox,OnNameTeach,-1]\e"
+		}
+	else
+		{
+		}
+}
+
+
+//--OnNameTeach
+
+OnNameTeach
+{
+	_tempname = reference0
+	
+	
+	reference0 = TOLOWER(reference0) //changes it to lowercase
+	reference0 = REPLACE(reference0," ","") //removes spaces
+	reference0 = REPLACE(reference0,".","") //removes periods
+	reference0 = REPLACE(reference0,"-","") //removes dashes
+	
+	
+	if reference0 == ""
+	{
+		username = "USER"
+		
+		"\1\s[10]¿Sin nombre?...\w8 Te parece bien si te llamo USER."
+	}
+	else
+	{
+		username = _tempname
+		"\0\s[0]De acuerdo, a partir de ahora te llamaré %(username)."
+		"\0\s[0]%(username), ¡Vaya! \w3Es un lindo nombre."
+	}
+
+	if firstboot==1{
+		OnEndFirstBoot
+	}
+}
+
+
+//--NameDone
+
+// NameDone
+// {
+// 	if firstboot == 1
+// 	{
+// 		"\0\s[0]Sera un gusto pasar tiempo contigo, %(username)."
+// 		OnEndFirstBoot
+// 	}
+// 	else
+// 	{
+// 		"\0\e"
+// 	}	
+// }
