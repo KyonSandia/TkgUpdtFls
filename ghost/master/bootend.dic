@@ -67,7 +67,7 @@ OnFirstBoot : all
 
 	if reference0 == 0 
  	{
-		"\0\s[8]¡Qué bonito lugar!...\w8\w8\s[5] ¡Oh! Hola, no te había visto. Yo soy \f[bold,1]Takagi-San\f[bold,0], un gusto conocerte... \n¿Qué te parece si nos conocemos un poco?\n\w8\w8"
+		"\0\s[8]¡Qué bonito lugar!...\w8\w8\s[5]\n¡Oh! Hola, no te había visto. Mi nombre es \f[bold,1]Takagi-San\f[bold,0], un gusto conocerte... \n¿Por qué no me cuentas un poco sobre ti?\n\w8\w8"
 		--
 		GenderChoice
  	}

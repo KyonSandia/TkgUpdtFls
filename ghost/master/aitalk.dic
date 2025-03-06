@@ -97,6 +97,10 @@ RandomTalk : nonoverlap_pool
 		"\0\s[9]¿Sabes? La hermana mayor de Tsukimoto Sanae se va a casar con Tanabe Sensei... \s[5]interesante pareja jeje\e"
 		"\0\s[9]La comida menos preferida de Nishikata son los pimientos verdes jeje\n\s[0]Come como un niño pequeño.\i[5]\e"
 
+		"\0\s[0]¿Te gustan los animales? A mí sí, incluso una vez enseñé a dar la patita al cachorro de una conocida... \s[9]Creo que ella va a la preparatoria.\e"
+		"\0\s[0]Mina, Yukari y Sanae son muy buenas amigas, siempre van juntas a todos lados... incluso alguna vez note que nos seguían a Nishikata y a mí.\i[5]\e"
+		"\0\s[9]A Nishikata le gustan mucho los perritos, \s[5]alguna vez pudimos pasear uno juntos.\e"
+
 		//------------------------------------------------------------------------------------------
 		if ASEARCH(0,toDoArrayDone) != -1{
 			OnReminder

@@ -51,7 +51,8 @@ MenuRun : all
 	"\![*]\q[Lista de Pendientes,OnToDoList]\n\n"
 	"\f[bold,1]Sistema\f[bold,0]\n\n[half]"
 	"\![*]\q[Funciones,dosomething]\n"
-	"\![*]\q[Configuración,configmenu]\n\n"
+	"\![*]\q[Configuración,configmenu]\n"
+	"\![*]\q[Información,informationCredits]\n\n"
  	"\![*]\q[Salir,CANCEL]\n\n\n[half]%(wd) %(day)/%(month)/%(year) %(nowhour):%(nowmin)%(ap)\e"
 }
 
@@ -141,6 +142,19 @@ Select.summary : all{
 	}
 
 	"\0Creo que eso sería todo por el momento.\e"
+}
+
+Select.informationCredits:all{
+	"\b2\0\s[9]\f[align,center]El autor de este Ukagaka es \n\n \f[bold,1]\q[@TakagiChikita,OnJumpAuthor,https://x.com/takagichikita]\f[bold,0]\n\n"
+	"\0\s[9]\f[align,center]Cualquier asunto relacionado, duda o sugerencia puedes contactarlo en X (Twitter) \s[0]aunque puede tardar un poco en responder.\i[5]\w8\w8\n\n"
+	"\0\s[0]\f[align,center]También es co-autor de otro Ukagaka junto con su amiga \n\n \f[bold,1]\q[@SunflowHamato,OnJumpAuthor,https://x.com/SunflowHamato]\f[bold,0]\n\nPuedes acercarte a ellos para más información.\n\n"
+	"\0\s[0]\f[align,center]Hacer Ukagakas es una tarea laboriosa y pesada, considera apoyar con un pequeño donativo en \n\n\f[bold,1]\![*]\q[Ko-Fi.com,OnJumpAuthor,https://ko-fi.com/takagichikita]\![*]\f[bold,0]\n"
+	"\0\s[9]\f[align,center]\nTus donativos ayudarán a seguir trayendo contenido, actualizaciones y mantenimiento de este y otros proyectos.\n"
+	"\0\n\f[align,left]\![*]\q[OK,CANCEL]\e"
+}
+OnJumpAuthor{
+	_goURL=reference0
+	"\j[%(_goURL)]"
 }
 
 //--TalkConfig
