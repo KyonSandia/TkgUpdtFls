@@ -23,5 +23,5 @@ Cualquier comentario, duda o recomendación me encantara escucharla, puedes cont
 
 Diviértete.
 
-Versión: 0.9.0
-Lanzamiento: 02/03/2025
+Versión: 1.0.0
+Lanzamiento: 07/03/2025
