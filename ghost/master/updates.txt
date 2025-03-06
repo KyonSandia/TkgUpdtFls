@@ -1,6 +1,5 @@
 charset,OSNative
 file,.gitignore3b5e96f25927866b6a4a22330d7a786bsize=55date=2025-03-03T13:46:09
-file,Template Readme - READ ME FIRST!.txte59f79f4a0883173bbf5c2ed8232fafdsize=6608date=2023-09-28T20:05:23
 file,ghost/master/aitalk.dic07058364104f2dcac6a2ba3f550ac471size=10865date=2025-03-04T22:42:56
 file,ghost/master/anchor.dic9495ca3bc29065ed2d8e412838c650efsize=2237date=2023-09-28T20:23:43
 file,ghost/master/bootend.dica867a22dece12f2a8436289f3728ad04size=13217date=2025-01-09T11:54:41
@@ -14,7 +13,7 @@ file,ghost/master/menu.dic786e74aff121ae9f6396236604f70c25size=29534date=2025
 file,ghost/master/mouse.dica2b2bf3e48137d5ab5d94d5576b7092fsize=1821date=2024-10-28T15:50:52
 file,ghost/master/nameteach.dic023e84605b3d182831c829669d1f19cdsize=1092date=2025-01-07T23:12:00
 file,ghost/master/saori_cpuid.dlld13370aee8e579fe2517d789dba7c45esize=225280date=2004-04-17T18:47:18
-file,ghost/master/string.dicfe02751805447caf8eee18fc3d167ee9size=8512date=2025-03-05T17:55:09
+file,ghost/master/string.dicfe02751805447caf8eee18fc3d167ee9size=8512date=2025-03-05T18:15:06
 file,ghost/master/tkg.ico97d6c9eaa622003f020360214387fd88size=67646date=2024-10-05T21:45:03
 file,ghost/master/word.dic625062b272dffb65efef1a3b3bdd9571size=3066date=2023-09-28T21:13:03
 file,ghost/master/yaya.dll56e3af56c88e696cea1f39d53b239cefsize=880640date=2022-09-10T17:18:59
@@ -25,7 +24,7 @@ file,ghost/master/yaya_base/config.dicd07874f4b1ba03ba111df8f2fa3cd6dbsize=259
 file,ghost/master/yaya_base/optional.dicff4da728a656a8aa6a38939e654c51f2size=9953date=2023-06-01T06:32:24
 file,ghost/master/yaya_base/shiori3.dic18b395e9ffcd3fb772ded9046ed4b57csize=54846date=2023-06-01T06:32:24
 file,install.txt3df271f27a2191a3c5bff32ed3e5cf92size=922date=2024-08-18T19:07:21
-file,readme.txt47df99cf7357ac0e38df47c528d7ecb8size=296date=2025-03-02T19:06:31
+file,readme.txt16c13f75270557c2c8c3db865da5758fsize=806date=2025-03-06T11:37:24
 file,shell/master/codigodepruebatemp.txt467a955a09e6e03083cdb2f7c31394fasize=1210date=2025-03-03T16:39:11
 file,shell/master/descript.txt4264d4d36535607018a77987d2b8329esize=5484date=2024-08-18T19:20:57
 file,shell/master/menu_background.pngd69b1632d9c713d73af0974dde0b5475size=2463date=2025-03-05T17:07:19
