@@ -147,7 +147,7 @@ NameInput
 //&&&&&&&
 OnEndFirstBoot{
 	firstboot = 0
-	"\0\s[0]Bien, \f[bold,1]%(username)\f[bold,0].\nComo ya mencione yo soy \f[bold,1]Takagi-San\f[bold,0].\n\nDe las cosas que me gusta hacer podríamos decir que es dar paseos largos, a veces junto a mi amiga Sumire, pero, sin duda, lo que más disfruto es hacer bromas\s[15]... principalmente a Nishikata... Ya te platicaré más de él, en fin.\n\n\s[24]\w8\w4Un gusto conocerte, %(username), espero nos podamos llevar bien.\w8\w8\w8\w8\s[0]\e"
+	"\0\c\s[0]Bien, \f[bold,1]%(username)\f[bold,0].\nComo ya mencione yo soy \f[bold,1]Takagi-San\f[bold,0].\n\nDe las cosas que me gusta hacer podríamos decir que es dar paseos largos, a veces junto a mi amiga Sumire, pero, sin duda, lo que más disfruto es hacer bromas\s[15]... principalmente a Nishikata... Ya te platicaré más de él, en fin.\n\n\s[24]\w8\w4Un gusto conocerte, %(username), espero nos podamos llevar bien.\w8\w8\w8\w8\s[0]\e"
 }
 
 
@@ -253,7 +253,7 @@ OnClose
 	 takagiwatch = 0
 	 "\0\s[0]Nos vemos pronto.\w8\w8\-"
 	 "\0\s[0]Tengo un par de juegos pendientes con Nishikata, nos vemos luego.\w8\w8\-"
-	 "\0\s[0]Ire a ver a Nishikata, creo que tenía una nueva caja sorpresa jaja.\w8\w8\-"
+	 "\0\s[0]Ire a ver a Nishikata, creo que tenía una nueva caja sorpresa \i[5]jaja.\w8\w8\-"
 	 "\0\s[0]Hasta la vista, %(username)...\w8\f[bold,1]¡BANG!\f[bold,0]\s[20].\w8\w8\-"
  }
 

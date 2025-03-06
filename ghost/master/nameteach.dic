@@ -28,33 +28,31 @@ OnNameTeach
 	if reference0 == ""
 	{
 		username = "USER"
-		
-		"\1\s[10]¿Sin nombre?...\w8 Te parece bien si te llamo USER."
+		"\1\s[10]¿Sin nombre?...\w8 Te parece bien si te llamo USER.\w8"
+		--
+		NameDone
 	}
 	else
 	{
 		username = _tempname
-		"\0\s[0]De acuerdo, a partir de ahora te llamaré %(username)."
-		"\0\s[0]%(username), ¡Vaya! \w3Es un lindo nombre."
-	}
-
-	if firstboot==1{
-		OnEndFirstBoot
+		"\0\s[0]De acuerdo, a partir de ahora te llamaré %(username).\w8"
+		"\0\s[0]%(username), ¡Vaya! \w3Es un lindo nombre.\w8"
+		--
+		NameDone
 	}
 }
 
 
 //--NameDone
 
-// NameDone
-// {
-// 	if firstboot == 1
-// 	{
-// 		"\0\s[0]Sera un gusto pasar tiempo contigo, %(username)."
-// 		OnEndFirstBoot
-// 	}
-// 	else
-// 	{
-// 		"\0\e"
-// 	}	
-// }
+NameDone
+{
+	if firstboot == 1
+	{
+		OnEndFirstBoot
+	}
+	else
+	{
+		"\0\e"
+	}	
+}

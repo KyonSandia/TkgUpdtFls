@@ -52,7 +52,7 @@ MenuRun : all
 	"\f[bold,1]Sistema\f[bold,0]\n\n[half]"
 	"\![*]\q[Funciones,dosomething]\n"
 	"\![*]\q[Configuración,configmenu]\n\n"
- 	"\![*]\q[Salir,CANCEL]\n\n\n[half]%(wd) %(nowhour):%(nowmin) %(ap), %(month)/%(day)/%(year)\e"
+ 	"\![*]\q[Salir,CANCEL]\n\n\n[half]%(wd) %(day)/%(month)/%(year) %(nowhour):%(nowmin)%(ap)\e"
 }
 
 //Leave this alone
@@ -403,7 +403,7 @@ birthchecked
 
 Select.talkinter : all
  	{
- 		"\0\s[0]\_q\b2¿Qué tan seguiso habló? El intervalo de tiempo es cada %(talktime)."
+ 		"\0\s[0]\_q\b2¿Qué tan seguido debe hablar Takagi-San? El intervalo actual es cada %(talktime)."
 		
  		"\0\n\n[half]"
  		"\![*]\q[Cada 30 segundos,TALKMAX]\n"
