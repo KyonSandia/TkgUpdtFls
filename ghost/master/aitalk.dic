@@ -326,12 +326,12 @@ OnKeyPress
 	{
 	"\![open,readme]"
 	}
-	elseif reference0 == "g"
-	{
-		"Rondas: %(glicoRounds)\nPiedra: %(timesRock)\nPapel: %(timesPaper)"
-	}
-	elseif reference0 == "p"
-	{
-		"\![raise,OnFirstBoot,]"
-	}
+	//elseif reference0 == "g"
+	//{
+	//	"Rondas: %(glicoRounds)\nPiedra: %(timesRock)\nPapel: %(timesPaper)"
+	//}
+	//elseif reference0 == "p"
+	//{
+	//	"\![raise,OnFirstBoot,]"
+	//}
 }

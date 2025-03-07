@@ -390,7 +390,7 @@ birthchecked
 {
 	if userbirthday == dayslot //if today is the user's birthday
 		{
-			"\0\s[0]¡Hoy es tu compleaños!\w8 ¡Feliz cumpleaños!, %(username).\e"
+			"\0\s[0]¡Hoy es tu cumpleaños!\w8 ¡Feliz cumpleaños!, %(username).\e"
 			
 		}
 	else //if the birthday is not listed above.
@@ -601,7 +601,7 @@ Select.lookscreen
 	if takagiwatch == 0
 	{	
 		takagiwatch = 1
-		"\0\s[12]¿Veremos amor 100 por cierto no correspondido?\e"
+		"\0\s[12]¿Veremos amor 100% no correspondido?\e"
 		"\0\s[12]¿Es algo de amor?\e"
 	}
 	else
@@ -842,7 +842,7 @@ OnRunTwentyOne:all{
 	//Seleccion Del Jugador o TKG
 	if currentPlayer=="player"{
 		currentChoice=reference1
-		currentText+="\f[bold,1]TU: \f[bold,0]"
+		currentText+="\f[bold,1]%(username): \f[bold,0]"
 	}elseif currentPlayer=="tkg"{
 
 		_currentNext=4

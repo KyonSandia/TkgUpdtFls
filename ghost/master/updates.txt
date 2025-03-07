@@ -1,5 +1,5 @@
 charset,OSNative
-file,ghost/master/aitalk.dic9644939fd6610838d8a2866f3733153dsize=11291date=2025-03-06T15:08:54
+file,ghost/master/aitalk.dice4427c563c3e447e1fb4d5ee69aa644bsize=11307date=2025-03-06T19:45:14
 file,ghost/master/anchor.dic9495ca3bc29065ed2d8e412838c650efsize=2237date=2023-09-28T20:23:43
 file,ghost/master/bootend.dicf9a1a159afb3f5753d6c4e99cf345201size=13231date=2025-03-06T14:22:16
 file,ghost/master/commu.dic25d50da676e84ffbdc92fbc31bb6ee51size=3816date=2023-09-28T20:38:11
@@ -8,7 +8,7 @@ file,ghost/master/etc.dica52907084f6ea76c7a163004b118de99size=25981date=2024-
 file,ghost/master/gomi.dll51fe9597398db01e684a0f9d52c63242size=13312date=2004-06-01T19:00:04
 file,ghost/master/gt_template.ico9b275939dbf11bd2ec5f4ef3e00fa06asize=1148date=2014-11-09T16:17:39
 file,ghost/master/mciaudior.dllb1082bccd2aac2017f7936baf2d967b3size=29696date=2003-03-13T15:23:26
-file,ghost/master/menu.dic7d41334eee25029ac603d54630e1d7c7size=30628date=2025-03-06T15:48:20
+file,ghost/master/menu.dic5fd6bd500393dc862ca35a9e0de72e29size=30627date=2025-03-06T22:06:28
 file,ghost/master/mouse.dica2b2bf3e48137d5ab5d94d5576b7092fsize=1821date=2024-10-28T15:50:52
 file,ghost/master/nameteach.dic8f4cd4550384e1c98666475855dc0872size=993date=2025-03-06T14:02:26
 file,ghost/master/saori_cpuid.dlld13370aee8e579fe2517d789dba7c45esize=225280date=2004-04-17T18:47:18
